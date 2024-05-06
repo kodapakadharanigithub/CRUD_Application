@@ -11,6 +11,7 @@
         <body>
 
             <header>
+            <h1>Sample</h1>
             	
                 <nav class="navbar navbar-expand-md navbar-dark" style="background-color: tomato">
                     <div class="row">
